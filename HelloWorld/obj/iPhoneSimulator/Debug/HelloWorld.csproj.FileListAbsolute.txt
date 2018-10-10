@@ -1,0 +1,12 @@
+C:\code\XamarinHellowWorld\HelloWorld\bin\iPhoneSimulator\Debug\HelloWorld.exe
+C:\code\XamarinHellowWorld\HelloWorld\bin\iPhoneSimulator\Debug\HelloWorld.pdb
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\optimized\
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.exe
+C:\code\XamarinHellowWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.pdb
